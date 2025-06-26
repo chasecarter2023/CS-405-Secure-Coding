@@ -1,0 +1,7 @@
+﻿  ActivityStaticCode.cpp
+C:\Users\chase carter\OneDrive\Desktop\CS-405 Secure Coding\Mod5.3\ActivityStaticCode\ActivityStaticCode\ActivityStaticCode.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+  C:\Users\chase carter\OneDrive\Desktop\CS-405 Secure Coding\Mod5.3\ActivityStaticCode\ActivityStaticCode\ActivityStaticCode.cpp(52,9):
+  __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\chase carter\OneDrive\Desktop\CS-405 Secure Coding\Mod5.3\ActivityStaticCode\ActivityStaticCode\ActivityStaticCode.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  ActivityStaticCode.vcxproj -> C:\Users\chase carter\OneDrive\Desktop\CS-405 Secure Coding\Mod5.3\ActivityStaticCode\x64\Debug\ActivityStaticCode.exe
